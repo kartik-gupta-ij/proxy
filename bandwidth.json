@@ -1,0 +1,17 @@
+{
+  "www.example.com": {
+    "totalBytesSent": 1779,
+    "totalBytesReceived": 17233,
+    "requestCount": 5
+  },
+  "www.youtube.com": {
+    "totalBytesSent": 1186,
+    "totalBytesReceived": 1206539,
+    "requestCount": 2
+  },
+  "example.com": {
+    "totalBytesSent": 4095,
+    "totalBytesReceived": 46630,
+    "requestCount": 17
+  }
+}
